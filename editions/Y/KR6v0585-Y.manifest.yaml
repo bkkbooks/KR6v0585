@@ -1,0 +1,1718 @@
+canonical_identifier: bkk:krp/KR6v0585/Y/v1
+canonical_location: https://kanripo.org/bkk/KR6v0585/Y/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛法概論
+  identifiers:
+    krp: KR6v0585
+    cbeta: Y08n0008
+    cbeta_old_id: Y08n0008
+    authorityid: CA0008327
+    json_key: Y0008
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/Y/Y08/Y08n0008.xml
+    old_id: Y08n0008
+  edition:
+    short: 'Y'
+assets:
+  parts:
+  - {seq: 0, filename: KR6v0585_000-Y.yaml, hash: 'sha256:f83be712031c1d62f999ce2ff4aba4c8bf89b880f693fe629b0cd21a485cab22'}
+  - {seq: 1, filename: KR6v0585_001-Y.yaml, hash: 'sha256:f8c2591fb32ad1d575fcfd09e62b24f2f8ff41bcac758c637039f454b3cc22a0'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6v0585_000-Y.markers.yaml, hash: 'sha256:cf183d3cfdf589484ba6cc45971bbc34eeaceb230b6cc751b2c1ed627829e19a'}
+  - {seq: 1, role: markers, filename: assets/KR6v0585_001-Y.markers.yaml, hash: 'sha256:cc76cfbce9dbdd01749ea7378af7d3579e59b6f0c50488d101c6e7ba8ef39eb2'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6v0585_Y_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 自序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0585_Y_001-juan-start
+    span:
+    - body
+    - 0
+    - 86284
+  label: 佛法概論
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0585_Y_001-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 緒言
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0585_Y_001-mulu-2
+    span:
+    - body
+    - 758
+    - 758
+  label: 第一章　法與法的創覺者及奉行者
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0585_Y_001-mulu-3
+    span:
+    - body
+    - 772
+    - 772
+  label: 第一節　法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0585_Y_001-mulu-4
+    span:
+    - body
+    - 776
+    - 776
+  label: 文義法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0585_Y_001-mulu-5
+    span:
+    - body
+    - 1171
+    - 1171
+  label: 意境法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0585_Y_001-mulu-6
+    span:
+    - body
+    - 1430
+    - 1430
+  label: 歸依法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0585_Y_001-mulu-7
+    span:
+    - body
+    - 2707
+    - 2707
+  label: 第二節　佛法的創覺者——佛
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0585_Y_001-mulu-8
+    span:
+    - body
+    - 2717
+    - 2717
+  label: 覺苦覺樂覺中道
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0585_Y_001-mulu-9
+    span:
+    - body
+    - 3386
+    - 3386
+  label: 即人成佛
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0585_Y_001-mulu-10
+    span:
+    - body
+    - 4075
+    - 4075
+  label: 自覺與覺他
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0585_Y_001-mulu-11
+    span:
+    - body
+    - 5078
+    - 5078
+  label: 第三節　佛法的奉行者——僧
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0585_Y_001-mulu-12
+    span:
+    - body
+    - 5088
+    - 5088
+  label: 建僧的目的
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0585_Y_001-mulu-13
+    span:
+    - body
+    - 6192
+    - 6192
+  label: 六和敬
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0585_Y_001-mulu-14
+    span:
+    - body
+    - 6935
+    - 6935
+  label: 事和與理和
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0585_Y_001-mulu-15
+    span:
+    - body
+    - 7687
+    - 7687
+  label: 第二章　教法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0585_Y_001-mulu-16
+    span:
+    - body
+    - 7692
+    - 7692
+  label: 第一節　能詮的教法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0585_Y_001-mulu-17
+    span:
+    - body
+    - 7700
+    - 7700
+  label: 能詮與所詮
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0585_Y_001-mulu-18
+    span:
+    - body
+    - 8485
+    - 8485
+  label: 詮表
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0585_Y_001-mulu-19
+    span:
+    - body
+    - 9487
+    - 9487
+  label: 第二節　教典略說
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0585_Y_001-mulu-20
+    span:
+    - body
+    - 9494
+    - 9494
+  label: 聖典的編集
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0585_Y_001-mulu-21
+    span:
+    - body
+    - 11227
+    - 11227
+  label: 教典的語文
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0585_Y_001-mulu-22
+    span:
+    - body
+    - 13231
+    - 13231
+  label: 第三章　有情——人類為本的佛法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0585_Y_001-mulu-23
+    span:
+    - body
+    - 13243
+    - 13243
+  label: 第一節　佛法從有情說起
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0585_Y_001-mulu-24
+    span:
+    - body
+    - 13253
+    - 13253
+  label: 有情的定義
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0585_Y_001-mulu-25
+    span:
+    - body
+    - 13603
+    - 13603
+  label: 有情為問題的根本
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0585_Y_001-mulu-26
+    span:
+    - body
+    - 15537
+    - 15537
+  label: 第二節　莫辜負此人身
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0585_Y_001-mulu-27
+    span:
+    - body
+    - 15546
+    - 15546
+  label: 人在有情界的地位
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0585_Y_001-mulu-28
+    span:
+    - body
+    - 16151
+    - 16151
+  label: 人類的特勝
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0585_Y_001-mulu-29
+    span:
+    - body
+    - 17459
+    - 17459
+  label: 第四章　有情與有情的身心
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0585_Y_001-mulu-30
+    span:
+    - body
+    - 17470
+    - 17470
+  label: 第一節　有情的分析
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0585_Y_001-mulu-31
+    span:
+    - body
+    - 17478
+    - 17478
+  label: 三處觀
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0585_Y_001-mulu-32
+    span:
+    - body
+    - 17792
+    - 17792
+  label: 蘊觀
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0585_Y_001-mulu-33
+    span:
+    - body
+    - 18522
+    - 18522
+  label: 處觀
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0585_Y_001-mulu-34
+    span:
+    - body
+    - 19122
+    - 19122
+  label: 界觀
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0585_Y_001-mulu-35
+    span:
+    - body
+    - 19970
+    - 19970
+  label: 第二節　有情與身心的關係
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0585_Y_001-mulu-36
+    span:
+    - body
+    - 19981
+    - 19981
+  label: 有情的神化
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0585_Y_001-mulu-37
+    span:
+    - body
+    - 20733
+    - 20733
+  label: 無常相續的有情論
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0585_Y_001-mulu-38
+    span:
+    - body
+    - 21273
+    - 21273
+  label: 第五章　有情的延續與新生
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0585_Y_001-mulu-39
+    span:
+    - body
+    - 21284
+    - 21284
+  label: 第一節　有情的延續
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0585_Y_001-mulu-40
+    span:
+    - body
+    - 21292
+    - 21292
+  label: 一切有情皆依食住
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0585_Y_001-mulu-41
+    span:
+    - body
+    - 21883
+    - 21883
+  label: 四食
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0585_Y_001-mulu-42
+    span:
+    - body
+    - 23519
+    - 23519
+  label: 第二節　有情的出生
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0585_Y_001-mulu-43
+    span:
+    - body
+    - 23527
+    - 23527
+  label: 四生
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0585_Y_001-mulu-44
+    span:
+    - body
+    - 24114
+    - 24114
+  label: 生命的由來與化生
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0585_Y_001-mulu-45
+    span:
+    - body
+    - 24805
+    - 24805
+  label: 第六章　有情流轉生死的根本
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0585_Y_001-mulu-46
+    span:
+    - body
+    - 24817
+    - 24817
+  label: 第一節　生死根本的抉擇
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0585_Y_001-mulu-47
+    span:
+    - body
+    - 24827
+    - 24827
+  label: 無明與愛
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0585_Y_001-mulu-48
+    span:
+    - body
+    - 25252
+    - 25252
+  label: 我見與識
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0585_Y_001-mulu-49
+    span:
+    - body
+    - 26131
+    - 26131
+  label: 第二節　情愛的活動形態
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0585_Y_001-mulu-50
+    span:
+    - body
+    - 26141
+    - 26141
+  label: 戀舊與趨新
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0585_Y_001-mulu-51
+    span:
+    - body
+    - 26842
+    - 26842
+  label: 逐物與離世
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0585_Y_001-mulu-52
+    span:
+    - body
+    - 27748
+    - 27748
+  label: 存在與否定
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0585_Y_001-mulu-53
+    span:
+    - body
+    - 28399
+    - 28399
+  label: 第七章　關於有情流轉的業力
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0585_Y_001-mulu-54
+    span:
+    - body
+    - 28411
+    - 28411
+  label: 第一節　行業的發見與價值
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0585_Y_001-mulu-55
+    span:
+    - body
+    - 28422
+    - 28422
+  label: 業與行
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0585_Y_001-mulu-56
+    span:
+    - body
+    - 29326
+    - 29326
+  label: 業感說的價值
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0585_Y_001-mulu-57
+    span:
+    - body
+    - 30704
+    - 30704
+  label: 第二節　業及依業而有的輪迴
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0585_Y_001-mulu-58
+    span:
+    - body
+    - 30716
+    - 30716
+  label: 業的本質
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0585_Y_001-mulu-59
+    span:
+    - body
+    - 31180
+    - 31180
+  label: 業的類別
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0585_Y_001-mulu-60
+    span:
+    - body
+    - 31900
+    - 31900
+  label: 從前生到後生
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0585_Y_001-mulu-61
+    span:
+    - body
+    - 32755
+    - 32755
+  label: 第八章　佛法的心理觀
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0585_Y_001-mulu-62
+    span:
+    - body
+    - 32764
+    - 32764
+  label: 第一節　心意識
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0585_Y_001-mulu-63
+    span:
+    - body
+    - 32770
+    - 32770
+  label: 意為有情的中樞
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0585_Y_001-mulu-64
+    span:
+    - body
+    - 33910
+    - 33910
+  label: 依意生識
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0585_Y_001-mulu-65
+    span:
+    - body
+    - 34635
+    - 34635
+  label: 心及三者的綜合
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0585_Y_001-mulu-66
+    span:
+    - body
+    - 35263
+    - 35263
+  label: 第二節　心與心所
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0585_Y_001-mulu-67
+    span:
+    - body
+    - 35270
+    - 35270
+  label: 認識的過程
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0585_Y_001-mulu-68
+    span:
+    - body
+    - 36443
+    - 36443
+  label: 善心所與惡心所
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0585_Y_001-mulu-69
+    span:
+    - body
+    - 37163
+    - 37163
+  label: 第九章　我們的世間
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0585_Y_001-mulu-70
+    span:
+    - body
+    - 37171
+    - 37171
+  label: 第一節　世間的一般情況
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0585_Y_001-mulu-71
+    span:
+    - body
+    - 37181
+    - 37181
+  label: 世間
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0585_Y_001-mulu-72
+    span:
+    - body
+    - 38143
+    - 38143
+  label: 須彌山與四洲
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0585_Y_001-mulu-73
+    span:
+    - body
+    - 39331
+    - 39331
+  label: 天魔梵與三界
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0585_Y_001-mulu-74
+    span:
+    - body
+    - 39976
+    - 39976
+  label: 第二節　人類世界的過去與未來
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0585_Y_001-mulu-75
+    span:
+    - body
+    - 39989
+    - 39989
+  label: 世界的成立
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0585_Y_001-mulu-76
+    span:
+    - body
+    - 40492
+    - 40492
+  label: 人類社會的演進
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0585_Y_001-mulu-77
+    span:
+    - body
+    - 41741
+    - 41741
+  label: 未來的世界
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0585_Y_001-mulu-78
+    span:
+    - body
+    - 42238
+    - 42238
+  label: 第十章　我論因說因
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0585_Y_001-mulu-79
+    span:
+    - body
+    - 42246
+    - 42246
+  label: 第一節　佛法以因緣為立義大本
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0585_Y_001-mulu-80
+    span:
+    - body
+    - 42259
+    - 42259
+  label: 總說
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0585_Y_001-mulu-81
+    span:
+    - body
+    - 42708
+    - 42708
+  label: 無因邪因與正因
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0585_Y_001-mulu-82
+    span:
+    - body
+    - 43715
+    - 43715
+  label: 第二節　因緣的類別
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0585_Y_001-mulu-83
+    span:
+    - body
+    - 43723
+    - 43723
+  label: 三重因緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0585_Y_001-mulu-84
+    span:
+    - body
+    - 44860
+    - 44860
+  label: 二大理則
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0585_Y_001-mulu-85
+    span:
+    - body
+    - 45553
+    - 45553
+  label: 第十一章　緣起法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0585_Y_001-mulu-86
+    span:
+    - body
+    - 45560
+    - 45560
+  label: 第一節　緣起的定義與內容
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0585_Y_001-mulu-87
+    span:
+    - body
+    - 45571
+    - 45571
+  label: 緣起的定義
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0585_Y_001-mulu-88
+    span:
+    - body
+    - 46196
+    - 46196
+  label: 緣起的內容
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0585_Y_001-mulu-89
+    span:
+    - body
+    - 47015
+    - 47015
+  label: 第二節　緣起的流轉與還滅
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0585_Y_001-mulu-90
+    span:
+    - body
+    - 47026
+    - 47026
+  label: 緣起的流轉
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0585_Y_001-mulu-91
+    span:
+    - body
+    - 48063
+    - 48063
+  label: 緣起的還滅
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0585_Y_001-mulu-92
+    span:
+    - body
+    - 48808
+    - 48808
+  label: 第十二章　三大理性的統一
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0585_Y_001-mulu-93
+    span:
+    - body
+    - 48819
+    - 48819
+  label: 第一節　三法印
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0585_Y_001-mulu-94
+    span:
+    - body
+    - 48825
+    - 48825
+  label: 略說
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0585_Y_001-mulu-95
+    span:
+    - body
+    - 49294
+    - 49294
+  label: 三法印的真實性
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0585_Y_001-mulu-96
+    span:
+    - body
+    - 50091
+    - 50091
+  label: 三法印的實踐性
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0585_Y_001-mulu-97
+    span:
+    - body
+    - 50450
+    - 50450
+  label: 第二節　三法印與一法印
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0585_Y_001-mulu-98
+    span:
+    - body
+    - 50460
+    - 50460
+  label: 從無我中貫徹一切
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0585_Y_001-mulu-99
+    span:
+    - body
+    - 51652
+    - 51652
+  label: 三法印即是一法印
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0585_Y_001-mulu-100
+    span:
+    - body
+    - 52558
+    - 52558
+  label: 第十三章　中道泛論
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0585_Y_001-mulu-101
+    span:
+    - body
+    - 52566
+    - 52566
+  label: 第一節　人類的德行
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0585_Y_001-mulu-102
+    span:
+    - body
+    - 52574
+    - 52574
+  label: 從神到人
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0585_Y_001-mulu-103
+    span:
+    - body
+    - 53512
+    - 53512
+  label: 從少數人到多數人
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0585_Y_001-mulu-104
+    span:
+    - body
+    - 54373
+    - 54373
+  label: 從人類到一切有情
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0585_Y_001-mulu-105
+    span:
+    - body
+    - 54581
+    - 54581
+  label: 第二節　正覺的德行
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0585_Y_001-mulu-106
+    span:
+    - body
+    - 54589
+    - 54589
+  label: 依法修行的現覺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0585_Y_001-mulu-107
+    span:
+    - body
+    - 55629
+    - 55629
+  label: 正覺的生活
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0585_Y_001-mulu-108
+    span:
+    - body
+    - 56129
+    - 56129
+  label: 第十四章　德行的心素與實施原則
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0585_Y_001-mulu-109
+    span:
+    - body
+    - 56143
+    - 56143
+  label: 第一節　德行的心理要素
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0585_Y_001-mulu-110
+    span:
+    - body
+    - 56153
+    - 56153
+  label: 道德的意向
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0585_Y_001-mulu-111
+    span:
+    - body
+    - 57286
+    - 57286
+  label: 道德的努力
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0585_Y_001-mulu-112
+    span:
+    - body
+    - 57649
+    - 57649
+  label: 道德的純潔
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0585_Y_001-mulu-113
+    span:
+    - body
+    - 58107
+    - 58107
+  label: 第二節　德行的實施原則
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0585_Y_001-mulu-114
+    span:
+    - body
+    - 58117
+    - 58117
+  label: 從平常到深刻與廣大
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0585_Y_001-mulu-115
+    span:
+    - body
+    - 58966
+    - 58966
+  label: 德行深化的真義
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0585_Y_001-mulu-116
+    span:
+    - body
+    - 59869
+    - 59869
+  label: 第十五章　佛法的信徒
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0585_Y_001-mulu-117
+    span:
+    - body
+    - 59878
+    - 59878
+  label: 第一節　信徒必備的條件
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0585_Y_001-mulu-118
+    span:
+    - body
+    - 59888
+    - 59888
+  label: 歸依三寶
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0585_Y_001-mulu-119
+    span:
+    - body
+    - 60806
+    - 60806
+  label: 受持五戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0585_Y_001-mulu-120
+    span:
+    - body
+    - 61506
+    - 61506
+  label: 第二節　佛徒的不同類型
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0585_Y_001-mulu-121
+    span:
+    - body
+    - 61516
+    - 61516
+  label: 在家眾與出家眾
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0585_Y_001-mulu-122
+    span:
+    - body
+    - 62065
+    - 62065
+  label: 聲聞與辟支佛
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0585_Y_001-mulu-123
+    span:
+    - body
+    - 62695
+    - 62695
+  label: 菩薩
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0585_Y_001-mulu-124
+    span:
+    - body
+    - 63004
+    - 63004
+  label: 第十六章　在家眾的德行
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0585_Y_001-mulu-125
+    span:
+    - body
+    - 63014
+    - 63014
+  label: 第一節　一般的世間行
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0585_Y_001-mulu-126
+    span:
+    - body
+    - 63023
+    - 63023
+  label: 人天行
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0585_Y_001-mulu-127
+    span:
+    - body
+    - 63814
+    - 63814
+  label: 正常的經濟生活
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0585_Y_001-mulu-128
+    span:
+    - body
+    - 64365
+    - 64365
+  label: 合理的社會生活
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0585_Y_001-mulu-129
+    span:
+    - body
+    - 64866
+    - 64866
+  label: 德化的政治生活
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0585_Y_001-mulu-130
+    span:
+    - body
+    - 65490
+    - 65490
+  label: 第二節　特勝的信眾行
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0585_Y_001-mulu-131
+    span:
+    - body
+    - 65499
+    - 65499
+  label: 五法具足
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0585_Y_001-mulu-132
+    span:
+    - body
+    - 66216
+    - 66216
+  label: 六念
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0585_Y_001-mulu-133
+    span:
+    - body
+    - 66839
+    - 66839
+  label: 在家信眾的模範人物
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0585_Y_001-mulu-134
+    span:
+    - body
+    - 67483
+    - 67483
+  label: 第十七章　出家眾的德行
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0585_Y_001-mulu-135
+    span:
+    - body
+    - 67493
+    - 67493
+  label: 第一節　出家眾與僧伽生活
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0585_Y_001-mulu-136
+    span:
+    - body
+    - 67504
+    - 67504
+  label: 出家與入僧
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0585_Y_001-mulu-137
+    span:
+    - body
+    - 68158
+    - 68158
+  label: 僧團生活的一斑
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0585_Y_001-mulu-138
+    span:
+    - body
+    - 68804
+    - 68804
+  label: 第二節　解脫的正行
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0585_Y_001-mulu-139
+    span:
+    - body
+    - 68812
+    - 68812
+  label: 八正道
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0585_Y_001-mulu-140
+    span:
+    - body
+    - 70009
+    - 70009
+  label: 道的必然性與完整性
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0585_Y_001-mulu-141
+    span:
+    - body
+    - 70609
+    - 70609
+  label: 道的抉擇
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0585_Y_001-mulu-142
+    span:
+    - body
+    - 71514
+    - 71514
+  label: 第十八章　戒定慧的考察
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0585_Y_001-mulu-143
+    span:
+    - body
+    - 71524
+    - 71524
+  label: 第一節　戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0585_Y_001-mulu-144
+    span:
+    - body
+    - 71528
+    - 71528
+  label: 懺悔與持戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0585_Y_001-mulu-145
+    span:
+    - body
+    - 72253
+    - 72253
+  label: 持戒與慈悲
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0585_Y_001-mulu-146
+    span:
+    - body
+    - 73017
+    - 73017
+  label: 第二節　定
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0585_Y_001-mulu-147
+    span:
+    - body
+    - 73021
+    - 73021
+  label: 離欲與定
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0585_Y_001-mulu-148
+    span:
+    - body
+    - 74601
+    - 74601
+  label: 定與神通
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0585_Y_001-mulu-149
+    span:
+    - body
+    - 74923
+    - 74923
+  label: 第三節　慧
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0585_Y_001-mulu-150
+    span:
+    - body
+    - 74927
+    - 74927
+  label: 聞思修與慧
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0585_Y_001-mulu-151
+    span:
+    - body
+    - 76032
+    - 76032
+  label: 慧與覺證
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0585_Y_001-mulu-152
+    span:
+    - body
+    - 77010
+    - 77010
+  label: 第十九章　菩薩眾的德行
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0585_Y_001-mulu-153
+    span:
+    - body
+    - 77020
+    - 77020
+  label: 第一節　菩薩行通說
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0585_Y_001-mulu-154
+    span:
+    - body
+    - 77028
+    - 77028
+  label: 空與慈悲
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0585_Y_001-mulu-155
+    span:
+    - body
+    - 78159
+    - 78159
+  label: 從聲聞到菩薩
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0585_Y_001-mulu-156
+    span:
+    - body
+    - 79295
+    - 79295
+  label: 第二節　從利他行中去成佛
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0585_Y_001-mulu-157
+    span:
+    - body
+    - 79306
+    - 79306
+  label: 三心
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0585_Y_001-mulu-158
+    span:
+    - body
+    - 79831
+    - 79831
+  label: 依三心修六度
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0585_Y_001-mulu-159
+    span:
+    - body
+    - 81433
+    - 81433
+  label: 依六度圓滿三心
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0585_Y_001-mulu-160
+    span:
+    - body
+    - 82018
+    - 82018
+  label: 第二十章　正覺與解脫
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0585_Y_001-mulu-161
+    span:
+    - body
+    - 82027
+    - 82027
+  label: 第一節　聲聞的解脫
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0585_Y_001-mulu-162
+    span:
+    - body
+    - 82035
+    - 82035
+  label: 次第證果
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0585_Y_001-mulu-163
+    span:
+    - body
+    - 82839
+    - 82839
+  label: 生死解脫
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0585_Y_001-mulu-164
+    span:
+    - body
+    - 83674
+    - 83674
+  label: 涅槃
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0585_Y_001-mulu-165
+    span:
+    - body
+    - 84781
+    - 84781
+  label: 第二節　佛陀的正覺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0585_Y_001-mulu-166
+    span:
+    - body
+    - 84789
+    - 84789
+  label: 正覺與解脫的特勝
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0585_Y_001-mulu-167
+    span:
+    - body
+    - 85553
+    - 85553
+  label: 佛的相對性與絕對性
+  type: mulu
+  level: 1
+hash: sha256:7811e0d3e059d5b83f7444db3278e61d6f074b24513fd09ff7a140e6465d3090
