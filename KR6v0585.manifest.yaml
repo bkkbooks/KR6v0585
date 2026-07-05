@@ -18,11 +18,11 @@ editions:
 - short: 'Y'
 assets:
   parts:
-  - {seq: 0, filename: KR6v0585_000.yaml, hash: 'sha256:edd2d4c67503bfc45975a85c3a562f7e98d21b0e09a431dae8c2e3b5469157ce'}
-  - {seq: 1, filename: KR6v0585_001.yaml, hash: 'sha256:a1795524ba36bdd46b859f8b8b3dbac7992b15d118d1bb0e8442c97f2f3a3a17'}
+  - {seq: 0, filename: KR6v0585_000.yaml, hash: 'sha256:f83be712031c1d62f999ce2ff4aba4c8bf89b880f693fe629b0cd21a485cab22'}
+  - {seq: 1, filename: KR6v0585_001.yaml, hash: 'sha256:f8c2591fb32ad1d575fcfd09e62b24f2f8ff41bcac758c637039f454b3cc22a0'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6v0585_000.markers.yaml, hash: 'sha256:572176fb4aa684332e693b2dcbe4c140eeb7ccfef2c658043358a804f46b0242'}
-  - {seq: 1, role: markers, filename: assets/KR6v0585_001.markers.yaml, hash: 'sha256:d82e4638f109f9f05c20d1bdc13752697cac9009d81093b1402d9aefe574e2a5'}
+  - {seq: 0, role: markers, filename: assets/KR6v0585_000.markers.yaml, hash: 'sha256:58d6188685daeb84c09c9024a8b0723431b6d8b41d85de379e1fb913f87b4fc5'}
+  - {seq: 1, role: markers, filename: assets/KR6v0585_001.markers.yaml, hash: 'sha256:afdf5eb5d09b00fa5ecf3eb58d3762b3f1b9498738d6d6d72381049dac56c732'}
 table_of_contents:
 - ref:
     seq: 0
@@ -1714,7 +1714,4 @@ table_of_contents:
   label: 佛的相對性與絕對性
   type: mulu
   level: 1
-hash: sha256:2093c53efeb88267f3b7a0f1183b4c1cfd8360fd0d93ca3c548ddcc075e265e0
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:05fbb88c45abe15673468efad1c32be27dff90e560cc456d15e3e906f838d9bd
