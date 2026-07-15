@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6v0585/v1
 canonical_location: https://kanripo.org/bkk/KR6v0585/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 佛法概論
   source:
@@ -18,11 +18,11 @@ editions:
 - short: 'Y'
 assets:
   parts:
-  - {seq: 0, filename: KR6v0585_000.yaml, hash: 'sha256:f83be712031c1d62f999ce2ff4aba4c8bf89b880f693fe629b0cd21a485cab22'}
-  - {seq: 1, filename: KR6v0585_001.yaml, hash: 'sha256:f8c2591fb32ad1d575fcfd09e62b24f2f8ff41bcac758c637039f454b3cc22a0'}
+  - {seq: 0, filename: KR6v0585_000.yaml, hash: 'sha256:848199836791eb1261101dc60b82877b43cb3b0c381cbcebffa242e303bea014'}
+  - {seq: 1, filename: KR6v0585_001.yaml, hash: 'sha256:2e349af510dc1eba22dea945d552dffba202c8a108c2635e604822021af3cfd5'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6v0585_000.markers.yaml, hash: 'sha256:58d6188685daeb84c09c9024a8b0723431b6d8b41d85de379e1fb913f87b4fc5'}
-  - {seq: 1, role: markers, filename: assets/KR6v0585_001.markers.yaml, hash: 'sha256:afdf5eb5d09b00fa5ecf3eb58d3762b3f1b9498738d6d6d72381049dac56c732'}
+  - {seq: 0, role: markers, filename: assets/KR6v0585_000.markers.yaml, hash: 'sha256:0744c84900706f9155672a78711a2decaa778552f2bb8236e4cecb9663ed6c1c'}
+  - {seq: 1, role: markers, filename: assets/KR6v0585_001.markers.yaml, hash: 'sha256:5cb5d4342db5a6adf33ff4c9ff18783e03876e9669fae4552b21d50f4f530b85'}
 table_of_contents:
 - ref:
     seq: 0
@@ -1714,4 +1714,7 @@ table_of_contents:
   label: 佛的相對性與絕對性
   type: mulu
   level: 1
-hash: sha256:05fbb88c45abe15673468efad1c32be27dff90e560cc456d15e3e906f838d9bd
+hash: sha256:95ad35cdb14a7e631e0e65c3e13698026b66ee718c4e67e5294ea986156a1046
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
