@@ -23,7 +23,7 @@ assets:
   - {seq: 1, filename: KR6v0585_001-Y.yaml, hash: 'sha256:f8c2591fb32ad1d575fcfd09e62b24f2f8ff41bcac758c637039f454b3cc22a0'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6v0585_000-Y.markers.yaml, hash: 'sha256:cf183d3cfdf589484ba6cc45971bbc34eeaceb230b6cc751b2c1ed627829e19a'}
-  - {seq: 1, role: markers, filename: assets/KR6v0585_001-Y.markers.yaml, hash: 'sha256:cc76cfbce9dbdd01749ea7378af7d3579e59b6f0c50488d101c6e7ba8ef39eb2'}
+  - {seq: 1, role: markers, filename: assets/KR6v0585_001-Y.markers.yaml, hash: 'sha256:a7877f548aa9ce1f54e4622a7205c808c7abe2375ad1da0f1860cd70e93fd713'}
 table_of_contents:
 - ref:
     seq: 0
@@ -1715,4 +1715,4 @@ table_of_contents:
   label: 佛的相對性與絕對性
   type: mulu
   level: 1
-hash: sha256:7811e0d3e059d5b83f7444db3278e61d6f074b24513fd09ff7a140e6465d3090
+hash: sha256:2caf5a13b8c7ac15a434905c7875cf9f21fc78f4496985b1ba390545ac7ad2a3
